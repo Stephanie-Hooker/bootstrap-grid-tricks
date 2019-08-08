@@ -1,0 +1,30 @@
+
+.container-padding {
+      padding: 42px;
+}
+.middle {
+  background:#3079AB
+
+}
+.text-center {
+  text-align: center;
+}
+.cards {
+  background:  #f2f2f2;
+}
+.card-white {
+  background: white;
+  padding: 30px;
+  box-shadow: 1px 1px 2px #e7e7e7;
+  border-radius: 4px;
+  margin: 20px 50px;
+}
+.text-color {
+  color: white;
+}
+h1, h4 {
+  padding:  20px;
+}
+.pad {
+  padding: 40px;
+}
